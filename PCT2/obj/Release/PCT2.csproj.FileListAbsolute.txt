@@ -1,0 +1,9 @@
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\bin\Release\PCT2.exe.config
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\bin\Release\PCT2.exe
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\bin\Release\PCT2.pdb
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.MainForm.resources
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.Properties.Resources.resources
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.csproj.GenerateResource.cache
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.exe
+C:\Users\Pichau\Downloads\prog-concorrente-t3\PCT2\PCT2\obj\Release\PCT2.pdb
